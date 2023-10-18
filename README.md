@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Aspiring+Game+Programmer" alt="Typing SVG" /></a>
 </p>
-
+<h1> Hello World </h1>
 I am currently an aspiring Game Programmer with a strong skillset in Unreal Engine and Unity. I have a deep passion for turning my vision into reality with coding. Currently, I am pursuing a Game Design Bachelor's Degree in France at ICAN Lyon. If you believe that I possess the required skills to collaborate with you, please don't hesitate to contact me at ✉️ **herrera.enzo26@gmail.com**.
 
 <p align="center">
